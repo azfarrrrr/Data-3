@@ -1,2 +1,3 @@
 import os
-sleutel = os.environ["MIJN_API_KEY"]   # KeyError als hij niet gezet is
+API_key = os.environ["OMDb_API"]   # KeyError als hij niet gezet is
+
