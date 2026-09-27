@@ -1,0 +1,82 @@
+[
+  {
+    "tmdb_id":348320,
+    "wiki_url":null,
+    "budget_tekst":null,
+    "box_office_tekst":null,
+    "budget_usd_wiki":null,
+    "box_office_usd_wiki":null
+  },
+  {
+    "tmdb_id":56780,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Atlas_Shrugged:_Part_I",
+    "budget_tekst":"$20 million",
+    "box_office_tekst":"$4.6 million",
+    "budget_usd_wiki":20000000.0,
+    "box_office_usd_wiki":4600000.0
+  },
+  {
+    "tmdb_id":11761,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Peacock_(2010_film)",
+    "budget_tekst":null,
+    "box_office_tekst":null,
+    "budget_usd_wiki":null,
+    "box_office_usd_wiki":null
+  },
+  {
+    "tmdb_id":345925,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Rupture_(2016_film)",
+    "budget_tekst":null,
+    "box_office_tekst":"$31,238",
+    "budget_usd_wiki":null,
+    "box_office_usd_wiki":31238.0
+  },
+  {
+    "tmdb_id":149786,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Christmas_with_Holly",
+    "budget_tekst":null,
+    "box_office_tekst":null,
+    "budget_usd_wiki":null,
+    "box_office_usd_wiki":null
+  },
+  {
+    "tmdb_id":127372,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Emperor_(2012_film)",
+    "budget_tekst":null,
+    "box_office_tekst":"$14.9 million",
+    "budget_usd_wiki":null,
+    "box_office_usd_wiki":14900000.0
+  },
+  {
+    "tmdb_id":101267,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Katy_Perry:_Part_of_Me_(film)",
+    "budget_tekst":"$13 million",
+    "box_office_tekst":"$32.7 million",
+    "budget_usd_wiki":13000000.0,
+    "box_office_usd_wiki":32700000.0000000037
+  },
+  {
+    "tmdb_id":84111,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/You_Are_the_Apple_of_My_Eye",
+    "budget_tekst":"NT $50 million (approx. US$1.7 million)",
+    "box_office_tekst":"US$ 24.5 million",
+    "budget_usd_wiki":1700000.0,
+    "box_office_usd_wiki":24500000.0
+  },
+  {
+    "tmdb_id":296867,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/El_Jeremías",
+    "budget_tekst":null,
+    "box_office_tekst":null,
+    "budget_usd_wiki":null,
+    "box_office_usd_wiki":null
+  },
+  {
+    "tmdb_id":51209,
+    "wiki_url":"https:\/\/en.wikipedia.org\/wiki\/Kill_the_Irishman",
+    "budget_tekst":"$12 million",
+    "box_office_tekst":"$1.2 million",
+    "budget_usd_wiki":12000000.0,
+    "box_office_usd_wiki":1200000.0
+  }
+]

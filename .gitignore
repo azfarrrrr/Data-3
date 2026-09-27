@@ -1,1 +1,4 @@
 .env
+# proefdata: posters en muziekpreviews zijn auteursrechtelijk beschermd
+data/proef/beeld/
+data/proef/audio/
